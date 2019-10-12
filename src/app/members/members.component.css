@@ -1,0 +1,42 @@
+.table
+{
+    margin-top: 20px;
+    color: white;
+}
+.fa-trash
+{
+    color: black;
+}
+.fa-trash:hover
+{
+    cursor: pointer;
+    color: red;
+}
+.lead
+{
+    margin-top: 10px;
+    color: yellow;
+}
+.fa-edit
+{
+    display: inline;
+}
+.fa-edit:hover
+{
+    cursor: pointer;
+    color: yellow;
+}
+input
+{
+    border-radius: 8px;
+    padding: 4.2px;
+}
+.in
+{
+   margin-top: 6.5px;
+}
+.btn-info
+{
+    float: right;
+    margin-top: 6px;
+}
